@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\pc\Documents\My_Area\KCLMS\Y12\KC\128_bit_AES_encryptor_and_decryptor\128 bit AES encryptor and decryptor in C++" -B "C:\Users\pc\Documents\My_Area\KCLMS\Y12\KC\128_bit_AES_encryptor_and_decryptor\128 bit AES encryptor and decryptor in C++\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/pc/Documents/My_Area/KCLMS/Y12/KC/128_bit_AES_encryptor_and_decryptor/128 bit AES encryptor and decryptor in C++/cmake-build-debug
